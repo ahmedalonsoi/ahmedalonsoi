@@ -26,4 +26,30 @@ I'm a Software Engineering student at Universidad Tecnologica de Panama. My pass
 ## ⚙️ Tech & Tools I Use
 
 
+
 ## 🔗 Let's connect!
+<p align="left">
+
+  <a href="">
+  <img src="image-from-rawpixel-id-20138952-png.png" width="55px" alt="Portafolio"></a>
+
+  <a href="https://www.linkedin.com/in/ahmedalonso/">
+  <img src="LinkedIn.png" width="50px" alt="LinkedIn"></a>
+ 
+  <a href="https://leetcode.com/u/AhmedAlo/">
+  <img src="leetcode.png" width="45px" alt="Leetcode"></a>
+  
+  <a href="">
+  <img src="Instagram.png" width="50px" alt="Instagram"></a>
+
+   <a href="">
+  <img src="" width="23px" alt=""></a>
+
+   <a href="">
+  <img src="TikTok.png" width="50px" alt="Tik Tok"></a>
+
+   <a href="">
+  <img src="Youtube.png" width="50px" alt="Youtube"></a>
+
+  
+</p> 
