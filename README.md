@@ -1,13 +1,11 @@
 
-# Hi, I'm Ahmed Alonso <img src="https://media.tenor.com/2nzJPPcHjFoAAAAi/hello-hi.gif" width="50">  <a href="https://media.licdn.com/dms/document/media/v2/D4E2DAQE3-Uq04M_S7Q/profile-treasury-document-pdf-analyzed/B4EZYjIklyGgAg-/0/1744346173416?e=1755734400&v=beta&t=YgDjfHWTOa2LHiRy3rmh3-hmmilYoH8_RPT49rvv0cM"><img width ="90" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg " align="right"></a> <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=96EBF4878D9B2152CA699C64DD7D0A6558593952B81AD85C6E626B8BC772439A "><img width ="90" src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25FNDCFAV1.png" align="right"></a> 
+# Hi, I'm Ahmed Alonso <img src="https://media.tenor.com/2nzJPPcHjFoAAAAi/hello-hi.gif" width="50">  <a href="https://media.licdn.com/dms/document/media/v2/D4E2DAQE3-Uq04M_S7Q/profile-treasury-document-pdf-analyzed/B4EZYjIklyGgAg-/0/1744346173416?e=1755734400&v=beta&t=YgDjfHWTOa2LHiRy3rmh3-hmmilYoH8_RPT49rvv0cM"><img width ="90" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg " align="right"></a> <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=96EBF4878D9B2152CA699C64DD7D0A6558593952B81AD85C6E626B8BC772439A "><img width ="170" src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25FNDCFAV1.png" align="right"></a> 
 
-<h1>Hi, I'm Ahmed Alonso <img src="https://media.tenor.com/2nzJPPcHjFoAAAAi/hello-hi.gif" width="50">
-</h1>
+<h3>🧠 About me </h3>
 
 
-<img align="right" width=300px alt="Banana dancing" src="https://media.tenor.com/ixbwqH97JCEAAAAj/guts-defeated.gif" />
+<img align="right" width=400px alt="Banana dancing" src="https://media.tenor.com/ixbwqH97JCEAAAAj/guts-defeated.gif" />
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDAxa2tmeGFqY29nbzc2dnRkdjljeGx4eWVjeXRzOTZndnk2dnhyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZDCLEjA7mA266BSggO/giphy.gif" width="40px">&nbsp;***About me***
 
 I'm a Software Engineering student at Universidad Tecnologica de Panama. My passion lies in cloud computing, where I'm driven to learn and build innovative, scalable solutions. I’m always enthusiastic about taking on new challenges, especially when it comes to creating systems that are practical and efficient.
 
