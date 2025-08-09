@@ -4,7 +4,7 @@
 <h3>🧠 About me </h3>
 
 
-<img align="right" width=340px alt="Banana dancing" src="https://media.tenor.com/ixbwqH97JCEAAAAj/guts-defeated.gif" />
+<img align="right" width=330px alt="Banana dancing" src="https://media.tenor.com/ixbwqH97JCEAAAAj/guts-defeated.gif" />
 
 
 I'm a Software Engineering student at Universidad Tecnologica de Panama. My passion lies in cloud computing, where I'm driven to learn and build innovative, scalable solutions. I’m always enthusiastic about taking on new challenges, especially when it comes to creating systems that are practical and efficient.
@@ -25,19 +25,21 @@ I'm a Software Engineering student at Universidad Tecnologica de Panama. My pass
 
 ## ⚙️ Tech & Tools I Use
 
+[![My Skills](https://skillicons.dev/icons?i=py,azure,aws,grafana,gcp,linux,terraform,kubernetes)](https://skillicons.dev)
+
 
 
 ## 🔗 Let's connect!
 <p align="left">
 
   <a href="">
-  <img src="image-from-rawpixel-id-20138952-png.png" width="55px" alt="Portafolio"></a>
+  <img src="image-from-rawpixel-id-20138952-png.png" width="60px" alt="Portafolio"></a>
 
   <a href="https://www.linkedin.com/in/ahmedalonso/">
   <img src="LinkedIn.png" width="50px" alt="LinkedIn"></a>
  
   <a href="https://leetcode.com/u/AhmedAlo/">
-  <img src="leetcode.png" width="45px" alt="Leetcode"></a>
+  <img src="leetcode.png" width="43px" alt="Leetcode"></a>
   
   <a href="">
   <img src="Instagram.png" width="50px" alt="Instagram"></a>
