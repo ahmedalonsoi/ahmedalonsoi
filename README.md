@@ -4,7 +4,7 @@
 <h3>🧠 About me </h3>
 
 
-<img align="right" width=300px alt="Banana dancing" src="https://media.tenor.com/ixbwqH97JCEAAAAj/guts-defeated.gif" />
+<img align="right" width=350px alt="Banana dancing" src="https://media.tenor.com/ixbwqH97JCEAAAAj/guts-defeated.gif" />
 
 
 I'm a Software Engineering student at Universidad Tecnologica de Panama. My passion lies in cloud computing, where I'm driven to learn and build innovative, scalable solutions. I’m always enthusiastic about taking on new challenges, especially when it comes to creating systems that are practical and efficient.
@@ -15,11 +15,11 @@ I'm a Software Engineering student at Universidad Tecnologica de Panama. My pass
   <br>
 
 <pre>
-                       ၊၊||၊|။||||။‌‌‌‌‌၊|
-    » Toad The Wet Sprocket - Something's Always Wrong «
-         1:00 ━━━━━━━━━●───────────────────── 4:20
-                  ⇄   ◃◃   ⅠⅠ   ▹▹   ↻
-                     VOL: ▁▂▃▄▅▆▇ 100%
+                   ၊၊||၊|။||||။‌‌‌‌‌၊|
+ » Toad The Wet Sprocke - Something's Always Wrong «
+     1:00 ━━━━━━━━━●───────────────────── 4:20
+              ⇄   ◃◃   ⅠⅠ   ▹▹   ↻
+                 VOL: ▁▂▃▄▅▆▇ 100%
 </pre>
   <br>
 
