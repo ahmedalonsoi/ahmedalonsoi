@@ -1,6 +1,8 @@
 
-<h1>Hi, I'm Ahmed Alonso <img src="https://media.tenor.com/2nzJPPcHjFoAAAAi/hello-hi.gif" width="50"></h1> 
+# Hi, I'm Ahmed Alonso <img src="https://media.tenor.com/2nzJPPcHjFoAAAAi/hello-hi.gif" width="50">  <a href="https://media.licdn.com/dms/document/media/v2/D4E2DAQE3-Uq04M_S7Q/profile-treasury-document-pdf-analyzed/B4EZYjIklyGgAg-/0/1744346173416?e=1755734400&v=beta&t=YgDjfHWTOa2LHiRy3rmh3-hmmilYoH8_RPT49rvv0cM"><img width ="90" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg " align="right"></a> <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=96EBF4878D9B2152CA699C64DD7D0A6558593952B81AD85C6E626B8BC772439A "><img width ="90" src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25FNDCFAV1.png" align="right"></a> 
 
+<h1>Hi, I'm Ahmed Alonso <img src="https://media.tenor.com/2nzJPPcHjFoAAAAi/hello-hi.gif" width="50">
+</h1>
 
 
 <img align="right" width=300px alt="Banana dancing" src="https://media.tenor.com/ixbwqH97JCEAAAAj/guts-defeated.gif" />
