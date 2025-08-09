@@ -17,7 +17,7 @@ I'm a Software Engineering student at Universidad Tecnologica de Panama. My pass
 <pre>
                    ၊၊||၊|။||||။‌‌‌‌‌၊|
  » Toad The Wet Sprocke - Something's Always Wrong «
-     1:00 ━━━━━━━━━●───────────────────── 4:20
+     1:00 ━━━━━━━━━●───────────────────── 4:10
               ⇄   ◃◃   ⅠⅠ   ▹▹   ↻
                  VOL: ▁▂▃▄▅▆▇ 100%
 </pre>
@@ -26,8 +26,6 @@ I'm a Software Engineering student at Universidad Tecnologica de Panama. My pass
 ## ⚙️ Tech & Tools I Use
 
 [![My Skills](https://skillicons.dev/icons?i=py,azure,aws,grafana,gcp,linux,terraform,kubernetes)](https://skillicons.dev)
-
-
 
 ## 🔗 Let's connect!
 <p align="left">
@@ -49,6 +47,5 @@ I'm a Software Engineering student at Universidad Tecnologica de Panama. My pass
 
    <a href="">
   <img src="Youtube.png" width="50px" alt="Youtube"></a>
-
   
 </p> 
